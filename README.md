@@ -1,6 +1,8 @@
-# Job Tracker App 🎯
+# Job Tracker App :
 
 A job application tracker built with React, Flask, and SQL.
+
+![image](https://github.com/user-attachments/assets/7a0dc8a1-cd9f-4319-9926-1dcb60b1c9e6)
 
 
 ## Features:
@@ -11,4 +13,13 @@ A job application tracker built with React, Flask, and SQL.
 
 ## Tech Stack:
 - **Frontend:** React, CSS  
-- **Backend:** Flask, Python, SQL   
+- **Backend:** Flask, Python, SQL
+
+## Installation 
+Sup-Res requires Python 3.10+ to run. Use the package manager pip to install libraries. This process may take a long time.
+
+pip install -r requirements.txt
+## Usage 
+
+python app.py 
+
