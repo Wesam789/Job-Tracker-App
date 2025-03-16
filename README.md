@@ -22,8 +22,12 @@ https://github.com/user-attachments/assets/3f604d54-4c82-4bfe-8ced-05e974603bd2
 ## Installation 
 Sup-Res requires Python 3.10+ to run. Use the package manager pip to install libraries. This process may take a long time.
 
+```bash
 pip install -r requirements.txt
+```
 ## Usage 
 
-python app.py 
+````python
+python main.py 
+````
 
